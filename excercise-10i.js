@@ -1,5 +1,5 @@
 let calculation = localStorage.getItem('calculation') || '';
-
+calculation = "";
 // Display the calculation when the page first loads.
 displayCalculation();
 
